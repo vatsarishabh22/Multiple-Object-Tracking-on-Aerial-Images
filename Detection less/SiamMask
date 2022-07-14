@@ -1,0 +1,21 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 6CC1-1434
+
+ Directory of C:\Users\lenovo\OneDrive\Desktop\object Tracker\SiamMask
+
+05/14/2022  03:43 PM    <DIR>          .
+05/14/2022  03:34 PM    <DIR>          ..
+05/14/2022  03:34 PM             1,307 .gitignore
+05/14/2022  03:34 PM    <DIR>          data
+05/14/2022  03:34 PM    <DIR>          datasets
+05/14/2022  03:34 PM    <DIR>          experiments
+05/14/2022  03:34 PM             1,088 LICENSE
+05/14/2022  03:34 PM               166 make.sh
+05/14/2022  03:34 PM    <DIR>          models
+05/14/2022  03:34 PM             8,689 README.md
+05/14/2022  03:34 PM               262 requirements.txt
+05/14/2022  03:43 PM                 0 SiamMask
+05/14/2022  03:34 PM    <DIR>          tools
+05/14/2022  03:34 PM    <DIR>          utils
+               6 File(s)         11,512 bytes
+               8 Dir(s)  108,069,826,560 bytes free
